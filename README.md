@@ -84,17 +84,12 @@ pip install pandas seaborn matplotlib wordcloud urlextract streamlit
 
 **How to Run:-**
 
-**1.** *Clone this repository:*
-````
-git clone <repository-url>
-````
-
-**2.** *Install dependencies:*
+**1.** *Install dependencies:*
 ````
 pip install -r requirements.txt
 ````
 
-**3.** *Launch the Streamlit app:*
+**2.** *Launch the Streamlit app:*
 ````
 streamlit run app.py
 ````

@@ -98,6 +98,3 @@ pip install -r requirements.txt
 ````
 streamlit run app.py
 ````
-
-
-Upload your WhatsApp chat .txt file and explore your analytics!

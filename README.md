@@ -50,7 +50,7 @@ To run this project, the following Python libraries are required:
 
 You can install them using:
 ````
-pip install pandas seaborn matplotlib wordcloud urlextract streamlit
+pip install pandas seaborn matplotlib wordcloud urlextract streamlit re
 ````
 **How It Works:-**
 
@@ -84,10 +84,7 @@ pip install pandas seaborn matplotlib wordcloud urlextract streamlit
 
 **How to Run:-**
 
-**1.** *Install dependencies:*
-````
-pip install -r requirements.txt
-````
+**1.** *Install dependencies*
 
 **2.** *Launch the Streamlit app:*
 ````
